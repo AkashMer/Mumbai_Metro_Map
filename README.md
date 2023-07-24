@@ -1,5 +1,6 @@
 # Mumbai_Metro_Map
-*Locations of metro stops in Mumbai*
+*Locations of metro stops in Mumbai*  
+Kindly visit this site for to view the HTML : [Mumbai Metro Map](https://akashmer.github.io/Mumbai_Metro_Map/)  
   
 The files contained in the repository are,
   
