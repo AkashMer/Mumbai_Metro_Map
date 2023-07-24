@@ -67,4 +67,4 @@ Written in **Rmarkdown file in `r R.version.string` using RStudio IDE**
 * **leaflet** : *Version `r packageVersion("leaflet")`*
   
 **Creation Date of Rmarkdown file :** `r file.info("./scripts/index.Rmd")$ctime`  
-**Last Modified Date of Rmarkdown file :** `r file.info("./scripts/report.Rmd")$mtime`
+**Last Modified Date of Rmarkdown file :** `r file.info("./scripts/index.Rmd")$mtime`
