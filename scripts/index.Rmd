@@ -57,7 +57,7 @@ metro_map
   
 # **APPENDIX**
 
-## **Kindly download and unzip the following [files](https://github.com/AkashMer/Mumbai_Metro_Map/blob/main/data/data.zip) before reproducing this example** Alternatively you can download the *data* subdirectory from the this [repository](https://github.com/AkashMer/Mumbai_Metro_Map)
+### **Kindly download and unzip the following [files](https://github.com/AkashMer/Mumbai_Metro_Map/blob/main/data/data.zip) before reproducing this example,** Alternatively you can download the *data* subdirectory from this [repository](https://github.com/AkashMer/Mumbai_Metro_Map)
 
 ## **R markdown details**
   
